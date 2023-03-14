@@ -1,0 +1,74 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Made this delicious pizza this morning",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "10"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Made delicious creamy, shrimp black pepper pasta.",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "80"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Made a delicious salad today!",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "20"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Cooked a widget this morning.",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "30"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Going to power through my day with this nutty smoothie to finish up Flutter apprentice for our readers!",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "40"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Cooking up some steak 🥩 today, state should be rare, medium or medium well?",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "7",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Kicking off the morning with mike's green smoothie recipe. Time to edit these chapters!",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "50"
+        },
+        {
+            "id": "8",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Not sure where I should travel to eat today.",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "60"
+        },
+        {
+            "id": "9",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Hot off the press, cooking up more books this year!",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "70"
+        },
+        {
+            "id": "10",
+            "profileImageUrl": "assets/image/mag1.png",
+            "comment": "Hmmm.... Salmon, little broccoli, mash potatos",
+            "foodPictureUrl": "assets/image/mag1.png",
+            "timestamp": "90"
+        }
+    ]
+}
